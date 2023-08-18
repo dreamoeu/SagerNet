@@ -50,4 +50,7 @@
     <string name="menu_traffic">Verkehr</string>
     <string name="group_status_proxies">%d Proxies</string>
     <string name="group_no_difference">%s: Kein Unterschied</string>
+    <string name="service_mode">Dienstmodus</string>
+    <string name="group_updated">%s: %d Proxies aktualisiert</string>
+    <string name="group_status_empty">Leere Gruppe</string>
 </resources>
